@@ -1,3 +1,3 @@
 <?php 
 
-$db = new mysqli('localhost', 'root', 'homosapiens', 'citrus', '3308');
+$db = new mysqli('localhost', 'root', '', 'citrus', '3308');
